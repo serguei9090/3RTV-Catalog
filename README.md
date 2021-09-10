@@ -1,2 +1,12 @@
 # 3RTV-Catalog
- Catalogo 3RTVPaket
+This is a 3RTV Bussines Catalog about Shows, Series.
+This was maded with __Python and Jinja2__ Scripting.
+Using a basedate of imagens and txt file with the info to build it upd.
+It has __random function__ at the top so every time you refresh the page the first line of imagens change, and also have a __search function__ by name Country or Genre.
+All this detail can be modified.
+
+
+> This is [a python script github repo](http://example.com/ "Title") whats is used for build this catalog with the web template.     
+
+Thanks for your Time
+========
