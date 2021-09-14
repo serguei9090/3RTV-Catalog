@@ -7,7 +7,7 @@ It has __random function__ at the top so every time you refresh the page the fir
 All this detail can be modified.
 
 
-> This is [a python script github repo](https://github.com/serguei9090/Add_Number_To_Img_Py "Python Script") whats is used for build this catalog with the web template.     
+> This is [a python script github repo](https://github.com/serguei9090/Jinja2py-WebCatalog-Build "Python Script") whats is used for build this catalog with the web template.     
 
 Thanks for your Time
 ========
